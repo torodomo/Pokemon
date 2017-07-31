@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#pokemon {
+    width: 1100px;
+    margin: 10px auto;
+}
